@@ -1,2 +1,2 @@
 # EffectiveJava
-Effective Java示例
+Effective Java示例存放仓库
